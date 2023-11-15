@@ -1,0 +1,586 @@
+1700008482280	geckodriver	INFO	Listening on 127.0.0.1:44219
+1700008482860	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHU6mPM"
+Gtk-Message: 19:34:42.902: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:25268): Gtk-WARNING **: 19:34:43.103: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:34:43.103: Failed to load module "canberra-gtk-module"
+
+(firefox:25268): Gtk-WARNING **: 19:34:43.111: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:34:43.111: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700008484942	Marionette	INFO	Marionette enabled
+1700008485184	Marionette	INFO	Listening on port 34009
+Read port: 34009
+1700008485695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1700008492315	Marionette	INFO	Stopped listening on port 34009
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1700008563895	geckodriver	INFO	Listening on 127.0.0.1:32791
+1700008564565	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileC7uI8M"
+Gtk-Message: 19:36:04.628: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:25866): Gtk-WARNING **: 19:36:04.940: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:36:04.940: Failed to load module "canberra-gtk-module"
+
+(firefox:25866): Gtk-WARNING **: 19:36:04.957: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:36:04.957: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700008567659	Marionette	INFO	Marionette enabled
+1700008568081	Marionette	INFO	Listening on port 36811
+Read port: 36811
+1700008568481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1700008589710	Marionette	INFO	Stopped listening on port 36811
+1700008601253	geckodriver	INFO	Listening on 127.0.0.1:45695
+1700008601531	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileb6eevl"
+Gtk-Message: 19:36:41.572: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:26434): Gtk-WARNING **: 19:36:41.835: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:36:41.835: Failed to load module "canberra-gtk-module"
+
+(firefox:26434): Gtk-WARNING **: 19:36:41.843: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:36:41.843: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700008603409	Marionette	INFO	Marionette enabled
+1700008603773	Marionette	INFO	Listening on port 36741
+Read port: 36741
+1700008604303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700008635678	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700009196647	Marionette	INFO	Stopped listening on port 36741
+1700009236085	geckodriver	INFO	Listening on 127.0.0.1:50281
+1700009236920	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUAXUK8"
+Gtk-Message: 19:47:16.954: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:27306): Gtk-WARNING **: 19:47:17.168: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:47:17.168: Failed to load module "canberra-gtk-module"
+
+(firefox:27306): Gtk-WARNING **: 19:47:17.174: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:47:17.174: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700009239351	Marionette	INFO	Marionette enabled
+1700009239625	Marionette	INFO	Listening on port 43769
+Read port: 43769
+1700009240086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1700009247970	Marionette	INFO	Stopped listening on port 43769
+1700009303538	geckodriver	INFO	Listening on 127.0.0.1:55763
+1700009303684	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYQOHOC"
+Gtk-Message: 19:48:23.745: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:27831): Gtk-WARNING **: 19:48:23.985: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:48:23.985: Failed to load module "canberra-gtk-module"
+
+(firefox:27831): Gtk-WARNING **: 19:48:23.992: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:48:23.992: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700009305801	Marionette	INFO	Marionette enabled
+1700009306116	Marionette	INFO	Listening on port 34603
+Read port: 34603
+1700009306569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1700009320749	Marionette	INFO	Stopped listening on port 34603
+1700009537117	geckodriver	INFO	Listening on 127.0.0.1:55515
+1700009537944	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledwhAAC"
+Gtk-Message: 19:52:18.016: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:28774): Gtk-WARNING **: 19:52:18.388: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:52:18.389: Failed to load module "canberra-gtk-module"
+
+(firefox:28774): Gtk-WARNING **: 19:52:18.395: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:52:18.395: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700009541637	Marionette	INFO	Marionette enabled
+1700009541963	Marionette	INFO	Listening on port 37833
+Read port: 37833
+1700009542412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1700009572966	geckodriver	INFO	Listening on 127.0.0.1:50649
+1700009573460	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6r3WGI"
+Gtk-Message: 19:52:53.501: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:29364): Gtk-WARNING **: 19:52:53.803: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:52:53.803: Failed to load module "canberra-gtk-module"
+
+(firefox:29364): Gtk-WARNING **: 19:52:53.810: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:52:53.810: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700009574639	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700009576749	Marionette	INFO	Marionette enabled
+1700009577017	Marionette	INFO	Listening on port 40249
+Read port: 40249
+1700009577519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700009607730	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700009649077	geckodriver	INFO	Listening on 127.0.0.1:54283
+1700009650353	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRgBalw"
+Gtk-Message: 19:54:10.468: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:29978): Gtk-WARNING **: 19:54:10.763: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:54:10.763: Failed to load module "canberra-gtk-module"
+
+(firefox:29978): Gtk-WARNING **: 19:54:10.772: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:54:10.772: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700009655779	Marionette	INFO	Marionette enabled
+1700009656620	Marionette	INFO	Listening on port 39215
+Read port: 39215
+1700009658150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700009691727	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://res.cdn.office.net/officehub/bundles/unauth-vendor-d78f09b728.js, line 1: Script terminated by timeout at:
+ge@https://res.cdn.office.net/officehub/bundles/unauth-vendor-d78f09b728.js:1:25432
+g</e.prototype.fade@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:1:5547
+g</e.prototype.fade/<@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:1:5748
+
+1700009699186	Marionette	INFO	Stopped listening on port 39215
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+JavaScript warning: https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js, line 2: Script terminated by timeout at:
+vn/</U.setUnloading@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:2:24645
+R@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:2:25474
+
+1700009703161	Marionette	INFO	Stopped listening on port 40249
+JavaScript warning: https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js, line 2: Script terminated by timeout at:
+vn/</U.setUnloading@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:2:24645
+R@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:2:25474
+
+1700009706599	Marionette	INFO	Stopped listening on port 37833
+1700009728215	geckodriver	INFO	Listening on 127.0.0.1:47535
+1700009729218	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFwQ1tD"
+Gtk-Message: 19:55:29.256: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:30626): Gtk-WARNING **: 19:55:29.477: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:55:29.477: Failed to load module "canberra-gtk-module"
+
+(firefox:30626): Gtk-WARNING **: 19:55:29.485: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:55:29.485: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700009730960	Marionette	INFO	Marionette enabled
+1700009731169	Marionette	INFO	Listening on port 34119
+Read port: 34119
+1700009731455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1700009746771	Marionette	INFO	Stopped listening on port 34119
+1700009867385	geckodriver	INFO	Listening on 127.0.0.1:60333
+1700009867984	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAuMBUF"
+Gtk-Message: 19:57:48.034: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:31293): Gtk-WARNING **: 19:57:48.310: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:57:48.310: Failed to load module "canberra-gtk-module"
+
+(firefox:31293): Gtk-WARNING **: 19:57:48.326: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:57:48.326: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700009870602	Marionette	INFO	Marionette enabled
+1700009870806	Marionette	INFO	Listening on port 36209
+Read port: 36209
+1700009870980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js, line 2: Script terminated by timeout at:
+vn/</U.setUnloading@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:2:24645
+R@https://res.cdn.office.net/officehub/bundles/unauth-874e057007.js:2:25474
+
+1700009885485	Marionette	INFO	Stopped listening on port 36209
+1700009944284	geckodriver	INFO	Listening on 127.0.0.1:46637
+1700009945464	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBdXeGc"
+Gtk-Message: 19:59:05.523: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:32074): Gtk-WARNING **: 19:59:05.841: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:59:05.841: Failed to load module "canberra-gtk-module"
+
+(firefox:32074): Gtk-WARNING **: 19:59:05.859: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 19:59:05.859: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700009949566	Marionette	INFO	Marionette enabled
+1700009949872	Marionette	INFO	Listening on port 40759
+Read port: 40759
+1700009950056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700009981483	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700010081800	geckodriver	INFO	Listening on 127.0.0.1:40539
+1700010083335	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexhpdmV"
+Gtk-Message: 20:01:23.437: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:32928): Gtk-WARNING **: 20:01:24.766: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:01:24.766: Failed to load module "canberra-gtk-module"
+
+(firefox:32928): Gtk-WARNING **: 20:01:24.778: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:01:24.779: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700010089503	Marionette	INFO	Marionette enabled
+1700010089883	Marionette	INFO	Listening on port 36851
+Read port: 36851
+1700010090903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700010149262	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700010156204	Marionette	INFO	Stopped listening on port 36851
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+1700010168843	geckodriver	INFO	Listening on 127.0.0.1:36443
+1700010169744	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileC0S1Ux"
+Gtk-Message: 20:02:49.784: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:33537): Gtk-WARNING **: 20:02:50.023: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:02:50.024: Failed to load module "canberra-gtk-module"
+
+(firefox:33537): Gtk-WARNING **: 20:02:50.032: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:02:50.032: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700010171400	Marionette	INFO	Marionette enabled
+1700010171534	Marionette	INFO	Listening on port 43455
+Read port: 43455
+1700010171812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700010201473	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1, line 370: Script terminated by timeout at:
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:370:28
+iG/<@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:535:117
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:485:126
+c/<@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:484:420
+
+1700010202008	Marionette	INFO	Stopped listening on port 43455
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/password-recipes getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1700010231200	geckodriver	INFO	Listening on 127.0.0.1:58475
+1700010231694	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebaLO6z"
+Gtk-Message: 20:03:51.736: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:34098): Gtk-WARNING **: 20:03:51.935: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:03:51.935: Failed to load module "canberra-gtk-module"
+
+(firefox:34098): Gtk-WARNING **: 20:03:51.941: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:03:51.941: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700010232908	Marionette	INFO	Marionette enabled
+1700010233021	Marionette	INFO	Listening on port 35939
+Read port: 35939
+1700010233293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1, line 486: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:486:89
+get@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:484:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:484:87
+c/<@https://www.googletagmanager.com/gtag/js?id=G-W2VMDSX0CE&cx=c&_slc=1:484:412
+
+1700010248756	Marionette	INFO	Stopped listening on port 35939
+1700010300856	geckodriver	INFO	Listening on 127.0.0.1:35877
+1700010303164	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegIik59"
+Gtk-Message: 20:05:03.463: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:35281): Gtk-WARNING **: 20:05:04.228: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:05:04.228: Failed to load module "canberra-gtk-module"
+
+(firefox:35281): Gtk-WARNING **: 20:05:04.240: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:05:04.240: Failed to load module "canberra-gtk-module"
+1700010304856	geckodriver	INFO	Listening on 127.0.0.1:40965
+1700010305177	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecRnQsS"
+Gtk-Message: 20:05:05.245: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:35394): Gtk-WARNING **: 20:05:05.851: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:05:05.851: Failed to load module "canberra-gtk-module"
+
+(firefox:35394): Gtk-WARNING **: 20:05:05.853: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:05:05.884: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700010309231	Marionette	INFO	Marionette enabled
+1700010309527	Marionette	INFO	Marionette enabled
+1700010309933	Marionette	INFO	Listening on port 36453
+1700010309949	Marionette	INFO	Listening on port 39251
+Read port: 39251
+Read port: 36453
+1700010311153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700010311180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700010344394	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700010344441	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c, line 130: Script terminated by timeout at:
+lb@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:130:124
+B@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:131:48
+nq@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:357:218
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:361:263
+mq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:359:207
+fq@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:356:789
+iG/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:546:153
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:496:126
+c/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:495:420
+
+1700010356678	Marionette	INFO	Stopped listening on port 39251
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 5623 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+c@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 5623 > eval line 1 > eval line 1 > eval:1:24
+@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 5623 > eval line 1 > eval line 1 > eval:1:104
+RY@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 5623 > eval line 1 > eval line 1 > eval:1:230
+L5@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 5623 > eval line 1 > eval line 1 > eval:1:43
+E.S</<@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval:5623:36822
+lT@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval:5623:14356
+MW@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval:5623:3326
+Sw@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval:5623:8650
+V8@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 5623 > eval line 1 > eval line 1 > eval:1:199
+E.vr@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval:5623:36233
+JZ@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval:5623:13291
+JH.tYc_/<@https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval:5623:38665
+En.prototype.v_@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:7835:153
+lI.prototype.E0@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:8943:41
+g.k.invoke@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:8934:64
+$Ka@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:3979:47
+g.dLa/a.c1a@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:3985:276
+g.eLa@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:3988:167
+g.k.CR@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:12247:77
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:12136:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:10266:62
+XT/a.state.j[b]@https://www.youtube.com/s/player/f279c958/player_ias.vflset/en_US/base.js:4763:53
+Ix/<@https://www.youtube.com/s/player/f279c958/www-embed-player.vflset/www-embed-player.js:1835:107
+Ux@https://www.youtube.com/s/player/f279c958/www-embed-player.vflset/www-embed-player.js:1872:46
+Yx<@https://www.youtube.com/s/player/f279c958/www-embed-player.vflset/www-embed-player.js:1879:183
+jl/<@https://www.youtube.com/s/player/f279c958/www-embed-player.vflset/www-embed-player.js:868:63
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c, line 310: Script terminated by timeout at:
+Dm@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:310:292
+Em@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:306:631
+Fm@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:309:203
+Hm@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:306:685
+Um@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:311:393
+bF@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:501:94
+aa.Km@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:531:142
+k/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:526:121
+Qj@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:267:342
+dk@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:270:350
+k@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:526:107
+c@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:317:169
+yn@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:318:269
+aa.Jm@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:526:144
+c@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:545:751
+nq@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:358:298
+mq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:361:263
+mq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:359:207
+fq@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:356:789
+iG/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:546:153
+aa.Ik/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:496:126
+c/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:495:420
+
+1700010361027	Marionette	INFO	Stopped listening on port 36453
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 7129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/rally-studies-v2 getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1700010393692	geckodriver	INFO	Listening on 127.0.0.1:56373
+1700010394324	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilespYWWV"
+Gtk-Message: 20:06:34.388: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:36654): Gtk-WARNING **: 20:06:34.825: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:06:34.825: Failed to load module "canberra-gtk-module"
+
+(firefox:36654): Gtk-WARNING **: 20:06:34.843: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:06:34.843: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700010397147	Marionette	INFO	Marionette enabled
+1700010397385	Marionette	INFO	Listening on port 41539
+Read port: 41539
+1700010397897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1700010427308	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 140: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:140:17
+jA@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:467:134
+kA/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:467:111
+
+1700010432128	Marionette	INFO	Stopped listening on port 41539
+1700010449873	geckodriver	INFO	Listening on 127.0.0.1:38249
+1700010451003	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileufcZsI"
+Gtk-Message: 20:07:31.076: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:37183): Gtk-WARNING **: 20:07:31.568: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:07:31.568: Failed to load module "canberra-gtk-module"
+
+(firefox:37183): Gtk-WARNING **: 20:07:31.582: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:07:31.582: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700010453374	Marionette	INFO	Marionette enabled
+1700010453588	Marionette	INFO	Listening on port 43159
+Read port: 43159
+1700010453842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1700010463002	Marionette	INFO	Stopped listening on port 43159
+1700010520563	geckodriver	INFO	Listening on 127.0.0.1:52687
+1700010521068	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegZll6L"
+Gtk-Message: 20:08:41.129: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:37745): Gtk-WARNING **: 20:08:41.426: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:08:41.426: Failed to load module "canberra-gtk-module"
+
+(firefox:37745): Gtk-WARNING **: 20:08:41.431: GTK+ module /snap/firefox/3358/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 20:08:41.432: Failed to load module "canberra-gtk-module"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700010523219	Marionette	INFO	Marionette enabled
+1700010523356	Marionette	INFO	Listening on port 41897
+Read port: 41897
+1700010523572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c, line 497: Script terminated by timeout at:
+aa.uh@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:497:89
+get@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:495:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:495:87
+c/<@https://www.googletagmanager.com/gtag/js?id=G-KXDF50D87G&l=dataLayer&cx=c:495:412
+
+1700010548038	Marionette	INFO	Stopped listening on port 41897
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.google.com/js/th/iPEf94t7kg41AT9t4roGKH7lRPlVKxurQ2Q3DUZ2d_o.js line 2 > eval line 5345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
